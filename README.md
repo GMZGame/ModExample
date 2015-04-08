@@ -1,2 +1,2 @@
 # ModExample
-An example mod
+An example mod for you to base your code on!
