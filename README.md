@@ -1,0 +1,2 @@
+# ModExample
+An example mod
